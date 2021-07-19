@@ -5,3 +5,12 @@ This project aims to solve the problem of water leakage .
 
 ##Background Story
 This project was inspired by the differt causes caused by the lack of water in small places.
+
+  ## My Solution 
+     I devised a way to use ML on arduino to solve the problem.
+                                                                                                                                                 
+    # Let's build it
+## Hardware setup
+Step 1: Connect Arduino board or fix arduino board to laptop and configure edge impulse.  
+                                                                                                                                                 
+Step 2: Software Setup                                                                                                                                                 
